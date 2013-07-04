@@ -1,4 +1,4 @@
 CloudConnector
 ==============
 
-All the Opoen source related to Datwendo Cloud Connector
+All the Documentation related to Datwendo Cloud Connector in this repo.
